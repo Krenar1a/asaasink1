@@ -163,7 +163,7 @@ const ValueProposition = () => {
             
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               <AnimatedStat value={87} suffix="%" label="Efficiency Increase" />
-              <AnimatedStat value={93} suffix="%" label="Client Satisfaction" />
+              <AnimatedStat value={100} suffix="%" label="Client Satisfaction" />
               <AnimatedStat value={62} suffix="%" label="Cost Reduction" />
               <AnimatedStat value={3} suffix="x" label="ROI Improvement" />
             </div>
